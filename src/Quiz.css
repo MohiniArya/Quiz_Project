@@ -1,0 +1,40 @@
+.whole-div{
+    background-color: bisque;
+    padding-bottom: 50px;
+    }
+    
+    .container{
+        background-color: aliceblue;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 50px ;
+        padding-bottom: 30px;
+        
+    }
+    
+    .ans-box{
+    
+        display: flex;
+        justify-content: center;
+       
+    }
+    .h1-quiz 
+    {
+        text-align: center;
+    }
+    
+    .end
+    {
+        text-align: center;
+    }
+    
+    .h2-quiz
+    {
+        text-align: center;
+    }
+    
+    .list
+    {
+        text-decoration: none;
+    }
